@@ -1,20 +1,20 @@
 <script>
 
-  export default {
+export default {
 
-    data() {
-      return {
-        message: 'hello world'
-      }
+  data() {
+    return {
+      message: 'hello world'
     }
   }
+}
 
 </script>
-  <div>{{message}}</div>
+
 <template>
-  
+
+  <div>{{ message }}</div>
+
 </template>
 
-<style>
-
-</style>
+<style></style>
